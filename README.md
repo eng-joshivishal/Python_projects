@@ -1,1 +1,2 @@
-All Above Code basic to intermediate level project created in COLAB ipynb files
+All Above Ptyhon learning from basic to intermediate level 
+Project created in COLAB ipynb py files
